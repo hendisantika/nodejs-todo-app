@@ -4,6 +4,8 @@
   "description": "NodejS ToDo App",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon src/server.js",
+    "webpack": "webpack -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
