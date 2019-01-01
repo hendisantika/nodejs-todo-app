@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-todo-app",
+  "version": "1.0.0",
+  "description": "NodejS ToDo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendisantika/nodejs-todo-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "todo",
+    "app"
+  ],
+  "author": "Hendi Santika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendisantika/nodejs-todo-app/issues"
+  },
+  "homepage": "https://github.com/hendisantika/nodejs-todo-app#readme"
+}
